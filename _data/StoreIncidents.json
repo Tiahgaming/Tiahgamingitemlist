@@ -41,6 +41,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "ambrosiasprout",
 		"price": 1000,
 		"karmatype": "Good"
@@ -91,23 +96,28 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "reviveme",
-		"price": 1500,
+		"abr": "reviveall",
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
 		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -126,8 +136,13 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "rescueme",
+		"price": 1200,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "fullheal",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -151,6 +166,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "use",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -166,5 +186,6 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 33
+	"total": 37
 }
+
