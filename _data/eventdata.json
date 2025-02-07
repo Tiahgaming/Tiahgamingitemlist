@@ -241,7 +241,7 @@
   },
   "psychicsoothe": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
@@ -361,7 +361,7 @@
   },
   "raid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 300,
     "LocalCooldown": 0,
@@ -377,7 +377,7 @@
   },
   "sapperraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 300,
     "LocalCooldown": 0,
@@ -385,7 +385,7 @@
   },
   "siegeraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 300,
     "LocalCooldown": 0,
@@ -393,7 +393,7 @@
   },
   "mechanoidraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 600,
     "LocalCooldown": 0,
